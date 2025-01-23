@@ -26,5 +26,5 @@ Explanation: Given numbers are 63 and 7. There sum is 70.
 ```
 
 ### Constraints:
-1 <= size of both linked lists <= 10^6
-0 <= elements of both linked lists <= 9
+- 1 <= size of both linked lists <= 10^6
+- 0 <= elements of both linked lists <= 9

@@ -20,7 +20,7 @@ Explanation:
 <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700176/Web/Other/blobid3_1722768742.png">
 
 ### Constraints:
-1 <= no. of nodes<= 10^3
-0 <= node->data <= 10^5
+- 1 <= no. of nodes<= 10^3
+- 0 <= node->data <= 10^5
 
 
