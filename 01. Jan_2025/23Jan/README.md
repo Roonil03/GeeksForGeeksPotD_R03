@@ -14,7 +14,7 @@ NOTE : Original linked list should remain unchanged.
 ```
 Input: head = [[1, 3], [3, 3], [5, NULL], [9, 3]] 
 ```
-<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/885813/Web/Other/blobid2_1737541602.jpg">
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/885813/Web/Other/blobid2_1737541602.jpg"><br>
 ```
 ```
 Output: head = [[1, 3], [3, 3], [5, NULL], [9, 3]] 
@@ -27,7 +27,7 @@ Node 4 points to NULL as its NEXT and Node 3 as its RANDOM.
 ```
 Input: head = [[1, 3], [2, 1], [3, 5], [4, 3], [5, 2]]
 ```
-<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700186/Web/Other/blobid2_1735042710.jpg">
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700186/Web/Other/blobid2_1735042710.jpg"><br>
 ``` 
 Output: head = [[1, 3], [2, 1], [3, 5], [4, 3], [5, 2]]
 Explanation: 

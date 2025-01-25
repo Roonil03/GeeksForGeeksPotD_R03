@@ -16,12 +16,12 @@ Rotate 2: 30 -> 40 -> 50 -> 10 -> 20
 Rotate 3: 40 -> 50 -> 10 -> 20 -> 30
 Rotate 4: 50 -> 10 -> 20 -> 30 -> 40
 ```
-<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/885669/Web/Other/blobid0_1737098802.webp">
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/885669/Web/Other/blobid0_1737098802.webp"><br>
 ```
 Input: head = 10 -> 20 -> 30 -> 40 , k = 6
 Output: 30 -> 40 -> 10 -> 20 
 ```
-<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/885669/Web/Other/blobid3_1737099041.webp">
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/885669/Web/Other/blobid3_1737099041.webp"><br>
 
 ### Constraints:
 

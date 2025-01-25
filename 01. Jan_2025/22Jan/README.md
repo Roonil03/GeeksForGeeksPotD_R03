@@ -13,14 +13,14 @@ Note: There can be leading zeros in the input lists, but there should not be any
 Input: num1 = 4 - > 5, num2 = 3 -> 4 -> 5
 Output:  3 -> 9 -> 0
 ```
-<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700043/Web/Other/blobid1_1721847725.png">
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700043/Web/Other/blobid1_1721847725.png"><br>
 ```
 Explanation: Given numbers are 45 and 345. There sum is 390.
 ```
 ```
 Input: num1 = 0 -> 0 -> 6 -> 3, num2 = 0 -> 7 
 Output: 7 -> 0 
-<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700043/Web/Other/blobid2_1721847773.png">
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700043/Web/Other/blobid2_1721847773.png"><br>
 ```
 Explanation: Given numbers are 63 and 7. There sum is 70.
 ```
