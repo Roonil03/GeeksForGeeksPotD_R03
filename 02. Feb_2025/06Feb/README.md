@@ -12,19 +12,19 @@ Input: inorder[] = [1, 6, 8, 7], preorder[] = [1, 6, 7, 8]
 Output: [8, 7, 6, 1]
 Explanation: The tree will look like
 ```
-<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700586/Web/Other/blobid0_1738646717.png">
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700586/Web/Other/blobid0_1738646717.png"><br>
 ```
 Input: inorder[] = [3, 1, 4, 0, 2, 5], preorder[] = [0, 1, 3, 4, 2, 5]
 Output: [3, 4, 1, 5, 2, 0]
 Explanation: The tree will look like
 ```
-<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700586/Web/Other/blobid1_1738646749.png">
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700586/Web/Other/blobid1_1738646749.png"><br>
 ```
 Input: inorder[] = [2, 5, 4, 1, 3], preorder[] = [1, 4, 5, 2, 3]
 Output: [2, 5, 4, 3, 1]
 Explanation: The tree will look like
 ```
-<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700586/Web/Other/blobid2_1738647091.png">
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700586/Web/Other/blobid2_1738647091.png"><br>
 
 ### Constraints:
 - 1 ≤ number of nodes ≤ 10^3
