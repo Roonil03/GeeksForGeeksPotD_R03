@@ -4,7 +4,7 @@
 ### Description:
 Given a 2D array `houses[][]`, consisting of n 2D coordinates `{x, y}` where each coordinate represents the location of each house, the task is to find the minimum cost to connect all the houses of the city.
 
-The cost of connecting two houses is the Manhattan Distance between the two points `(x``i``, y``i``)` and `(x``j``, y``j``)` i.e., `|x``i`` – x``j``|` + `|y``i`` – y``j``|`, where `|p|` denotes the absolute value of p.
+The cost of connecting two houses is the Manhattan Distance between the two points `(x`<sub>`i`</sub>`, y`<sub>`i`</sub>`)` and `(x`<sub>`j`</sub>`, y`<sub>`j`</sub>`)` i.e., `|x`<sub>`i`</sub>` – x`<sub>`j`</sub>`|` + `|y`<sub>`i`</sub>` – y`<sub>`j`</sub>`|`, where `|p|` denotes the absolute value of p.
 
 ### Examples :
 ```
