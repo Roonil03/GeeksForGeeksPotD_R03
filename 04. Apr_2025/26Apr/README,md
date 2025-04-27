@@ -1,0 +1,31 @@
+# Is Binary Tree Heap
+## Difficulty: Medium
+## Points: 4
+### Description:
+You are given a binary tree, and the task is to determine whether it satisfies the properties of a max-heap.
+
+A binary tree is considered a max-heap if it satisfies the following conditions:
+- `Completeness:` Every level of the tree, except possibly the last, is completely filled, and all nodes are as far left as possible.
+- `Max-Heap Property:` The value of each node is greater than or equal to the values of its children.
+
+### Examples:
+```
+Input: root[] = [97, 46, 37, 12, 3, 7, 31, 6, 9]
+```
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/881982/Web/Other/blobid0_1733648140.jpg"><br>
+```
+Output: true
+Explanation: The tree is complete and satisfies the max-heap property.
+```
+```
+Input: root[] = [97, 46, 37, 12, 3, 7, 31, N, 2, 4] 
+```
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/881982/Web/Other/blobid1_1733648320.jpg"><br>
+```
+Output: false
+Explanation: The tree is not complete and does not follow the Max-Heap Property, hence it is not a max-heap.
+```
+
+### Constraints:
+- 1 ≤ number of nodes ≤ 10<sup>3</sup>
+- 1 ≤ `node->data` ≤ 10<sup>3</sup>
